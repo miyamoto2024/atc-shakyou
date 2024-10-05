@@ -12,4 +12,3 @@ for i in range(len(bit)):
     total_price += int(products_price[i])
 
 print(total_price)
-
