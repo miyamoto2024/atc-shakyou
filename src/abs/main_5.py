@@ -1,5 +1,4 @@
 # NOTE: https://atcoder.jp/contests/abs/tasks/abc085_b
-# 貪欲法で。
 
 N = int(input())
 S = []
