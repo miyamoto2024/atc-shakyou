@@ -1,0 +1,4 @@
+C問題
+めちゃめちゃシンプルな解放。set使わないとMemoryErrorが出て無理だった。
+https://atcoder.jp/contests/abc377/submissions/59190129
+
